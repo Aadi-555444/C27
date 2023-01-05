@@ -1,2 +1,1 @@
-# C27
-PIRATES INVASION !!!
+# C23 sol
